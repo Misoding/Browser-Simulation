@@ -70,7 +70,7 @@ typedef struct browser {
     tab       *current;      // Currently active tab
     tabsList   list;         // All open tabs
 } browser;
-
+```
 ## Initialization Functions
 
 ### `DISPLAY_ERROR_MESSAGE(FILE *out_file)`
